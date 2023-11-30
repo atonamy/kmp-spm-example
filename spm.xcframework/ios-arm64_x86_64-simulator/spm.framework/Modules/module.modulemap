@@ -1,0 +1,6 @@
+framework module spm {
+    umbrella header "spm.h"
+
+    export *
+    module * { export * }
+}
